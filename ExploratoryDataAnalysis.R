@@ -2,6 +2,10 @@
 ## Ling 619: Exploratory Data Analysis
 ## 2 Apr 2019
 ## Amber Camp
+##
+## Based on Ch. 7 of 
+## R for Data Science by
+## Garrett Grolemund and Hadley Wickham (2017)
 #######################
 
 
@@ -97,5 +101,6 @@ summary(data3)
 ##    the above and inspect the data visually.You can choose to focus on only one language, environment, or participant. 
 ##    See what inferences you can make about this data.
 ## 2) Can you make a violin plot of this data? What does a violin plot tell you? 
+## 3) Can you figure out how to replace outlier data with the mean, rather than NA?
 
 
